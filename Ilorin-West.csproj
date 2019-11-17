@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
     <UserSecretsId>aspnet-Ilorin_West-9A13BC84-E67A-45D0-A858-E67826BA0C7A</UserSecretsId>
     <RootNamespace>Ilorin_West</RootNamespace>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
